@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Database files
+data/*.db
+
+# Model files
+models/*.pkl
+*.joblib
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter/IPython files (if any)
+.ipynb_checkpoints
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db
