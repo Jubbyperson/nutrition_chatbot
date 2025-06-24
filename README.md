@@ -1,6 +1,6 @@
 # NutriChat - AI Nutrition Coach
 
-A personalized nutrition tracking and coaching application that uses AI to provide tailored nutrition advice and progress analysis.
+A personalized nutrition tracking and coaching application that uses AI to provide tailored nutrition advice and progress analysis. Created with the help of Cursor AI.
 
 ## Features
 
